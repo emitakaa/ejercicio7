@@ -2,3 +2,7 @@ git branch: te muestra las ramas del proyecto
 git branch [nombre]: crea una rama con ese nombre
 git switch: para cambiar de rama
 git checkout: para cambiar de rama
+
+****Cambios******
+
+git merge (Combina la rama especificada en la rama actual)
