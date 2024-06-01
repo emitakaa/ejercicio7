@@ -1,0 +1,4 @@
+git branch: te muestra las ramas del proyecto
+git branch [nombre]: crea una rama con ese nombre
+git switch: para cambiar de rama
+git checkout: para cambiar de rama
