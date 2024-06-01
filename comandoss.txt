@@ -3,3 +3,4 @@ git push: sirve para subir todos los cambios a GitHub
 git pull: sirve para bajar el contenido de un repositorio de GitHub
 git branch: sirve para ver que ramas tiene el repositorio y crear ramas nuevas
 git switch: es para cambiarse de rama
+git merge: sirve para fucionar dos ramas
